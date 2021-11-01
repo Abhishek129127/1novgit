@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1novgit", "1novgit\1novgit.csproj", "{28D728F1-1AB2-4461-A6A6-E0741CB801BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D728F1-1AB2-4461-A6A6-E0741CB801BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D728F1-1AB2-4461-A6A6-E0741CB801BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D728F1-1AB2-4461-A6A6-E0741CB801BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D728F1-1AB2-4461-A6A6-E0741CB801BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7E9A09-FF48-401E-806E-00DF969ACD82}
+	EndGlobalSection
+EndGlobal
