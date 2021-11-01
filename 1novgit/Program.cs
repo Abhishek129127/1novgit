@@ -10,6 +10,7 @@ namespace _1novgit
             Console.WriteLine("hi");
             Console.WriteLine("hello");
             Console.WriteLine("abhi");
+            Console.WriteLine("amit");
         }
     }
 }
