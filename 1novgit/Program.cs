@@ -8,6 +8,7 @@ namespace _1novgit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("hi");
+            Console.WriteLine("hello");
             Console.WriteLine("abhi");
         }
     }
